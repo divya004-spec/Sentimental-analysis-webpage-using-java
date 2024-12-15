@@ -1,0 +1,6 @@
+positive	I love programming in Java.
+positive	This app is amazing.
+negative	I hate bugs in the code.
+negative	Development is frustrating sometimes.
+neutral	Java EE is a framework.
+neutral	Today is Monday.
